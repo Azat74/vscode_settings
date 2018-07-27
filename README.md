@@ -6,5 +6,7 @@
     "window.zoomLevel": -1,
     "editor.fontWeight": "500",
     "editor.fontSize": 18,
-    "workbench.colorTheme": "Alabaster"
+    "workbench.colorTheme": "Alabaster",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false
 }
