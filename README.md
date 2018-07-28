@@ -7,6 +7,6 @@
     "editor.fontWeight": "500",
     "editor.fontSize": 18,
     "workbench.colorTheme": "Alabaster",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "vscode-great-icons",
     "editor.minimap.enabled": false
 }
